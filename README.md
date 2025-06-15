@@ -4,7 +4,7 @@ A Vertex AI-powered waste classification system that identifies recyclable mater
 
 ## Features
 - Image classification (plastic, paper, metal, etc.)
-- Cloud Run deployment
+- Google Cloud Run deployment
 - Streamlit web interface
 - Vertex AI endpoint integration
 
@@ -13,4 +13,5 @@ A Vertex AI-powered waste classification system that identifies recyclable mater
 - Google Cloud (Vertex AI, Cloud Run)
 - Docker
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=YOUR_GITHUB_URL)
+Live running on GCP:
+https://trashnet-app-2d6z4zt5vq-uc.a.run.app/
