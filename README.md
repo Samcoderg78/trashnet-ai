@@ -1,4 +1,4 @@
-# ♻️ AI Waste Classifier with Vertex A
+# ♻️ AI Waste Classifier with Vertex AI
 
 A production-ready waste classification system powered by **Google Vertex AI** and **TensorFlow**, deployed on Cloud Run.
 
