@@ -3,6 +3,7 @@
 A production-ready waste classification system powered by **Google Vertex AI** and **TensorFlow**, deployed on Cloud Run.
 
 🔗 **Live App**:  https://trashnet-app-2d6z4zt5vq-uc.a.run.app/
+(Currently unavailable due to charges) 
 
 ## 🚀 Features
 - **CNN Model**: 92% accurate waste classification (plastic/paper/metal/etc.)
